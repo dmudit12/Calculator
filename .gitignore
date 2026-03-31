@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.vs
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Generated files
+*.exe
+*.dll
+*.pdb
+
+# Dotnet tools
+.dotnet/
